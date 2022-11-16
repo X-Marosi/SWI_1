@@ -1,6 +1,7 @@
 
 
-# SWI Semestralny projekt 6. Profesionálny organizér
+# SWI Semestralny projekt 
+# 6. Profesionálny organizér
 
 Organizér má za úlohu spravovať Váš čas či už v práci alebo v domácnosti. Aplikácia by mala
 poskytovať funkcionalitu prehľadného kalendára v ktorom sa dajú naplánovať jednotlivé udalosti.
